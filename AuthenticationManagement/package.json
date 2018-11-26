@@ -1,0 +1,14 @@
+{
+  "name": "authenticationmanagement",
+  "version": "1.0.0",
+  "description": "This will manage all the JWT Authentication Services.",
+  "main": "SessionService.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Heena",
+  "license": "ISC",
+  "dependencies": {
+    "njwt": "^0.4.0"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "database",
+  "version": "1.0.0",
+  "description": "This will handel all the database call",
+  "main": "DatabaseService.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Heena",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^3.1.10",
+    "mongoose": "^5.3.13"
+  }
+}

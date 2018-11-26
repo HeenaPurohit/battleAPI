@@ -1,0 +1,15 @@
+{
+  "name": "searchapi",
+  "version": "1.0.0",
+  "description": "This API will search the battle list on the basis of provided parameters",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Heena",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.6.1",
+    "express": "^4.16.4"
+  }
+}
